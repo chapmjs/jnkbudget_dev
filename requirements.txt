@@ -1,0 +1,5 @@
+shiny
+pandas
+numpy
+mysql-connector-python
+pymysql
